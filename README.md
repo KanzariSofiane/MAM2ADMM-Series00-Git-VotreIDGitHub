@@ -16,3 +16,6 @@ Je souhaite apprendre Python, R et Git car ces outils sont essentiels dans le do
 
 ![Exemple de code Python - Classes Examen et Patient](images/code_python.png)
 
+## Résumé de mon apprentissage
+
+Au cours de cet exercice, j'ai appris les bases essentielles de Git et GitHub : créer un repository, travailler avec des branches, committer des changements et les pousser vers un repository distant. Les commandes principales que j'ai utilisées sont la création de branches, le commit avec des messages descriptifs, et le push pour synchroniser mes modifications locales avec GitHub. J'ai également découvert comment intégrer des images (locales et depuis Internet) dans un fichier Markdown et organiser mes fichiers dans une structure claire avec des dossiers. La syntaxe Markdown m'est maintenant plus familière, notamment pour formater du texte et afficher des images. Ce travail m'a pris environ [X heures] pour être complété, incluant la lecture des instructions, la mise en pratique et les vérifications sur GitHub.
